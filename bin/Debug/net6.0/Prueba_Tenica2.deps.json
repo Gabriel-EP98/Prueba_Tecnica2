@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Prueba_Tenica2/1.0.0": {
+        "runtime": {
+          "Prueba_Tenica2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prueba_Tenica2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

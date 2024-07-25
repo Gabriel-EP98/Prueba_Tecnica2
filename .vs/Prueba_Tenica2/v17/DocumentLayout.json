@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GABRIEL EP\\Documents\\Visual Studio 2022\\ProgramasCurso\\Prueba_Tenica2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBE25AD-8C6B-4D51-99F5-1B9B5DEE8F27}|Prueba_Tenica2.csproj|c:\\users\\gabriel ep\\documents\\visual studio 2022\\programascurso\\prueba_tenica2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBE25AD-8C6B-4D51-99F5-1B9B5DEE8F27}|Prueba_Tenica2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBE25AD-8C6B-4D51-99F5-1B9B5DEE8F27}|Prueba_Tenica2.csproj|c:\\users\\gabriel ep\\documents\\visual studio 2022\\programascurso\\prueba_tenica2\\productsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBE25AD-8C6B-4D51-99F5-1B9B5DEE8F27}|Prueba_Tenica2.csproj|solutionrelative:productsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsData.cs",
+              "DocumentMoniker": "C:\\Users\\GABRIEL EP\\Documents\\Visual Studio 2022\\ProgramasCurso\\Prueba_Tenica2\\ProductsData.cs",
+              "RelativeDocumentMoniker": "ProductsData.cs",
+              "ToolTip": "C:\\Users\\GABRIEL EP\\Documents\\Visual Studio 2022\\ProgramasCurso\\Prueba_Tenica2\\ProductsData.cs",
+              "RelativeToolTip": "ProductsData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T04:07:14.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GABRIEL EP\\Documents\\Visual Studio 2022\\ProgramasCurso\\Prueba_Tenica2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\GABRIEL EP\\Documents\\Visual Studio 2022\\ProgramasCurso\\Prueba_Tenica2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T04:01:03.892Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

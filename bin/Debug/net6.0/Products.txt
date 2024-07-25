@@ -1,0 +1,4 @@
+
+paquete de hojas|2|450.00|900.00
+paquete de lapiceros|3|130.00|390.00
+paquete de hojas|1|450.00|450.00
